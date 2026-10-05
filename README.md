@@ -66,7 +66,7 @@ A collection of my C programming practice and college programs.
 ## 🤝 Let's Connect
 
 ### LinkedIn
-[Connect with me on LinkedIn](https://www.linkedin.com/in/yaashashvi-sundaresh-b8450b39)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/yaashashvi-sundaresh-b8450b39a)
 
 ### GitHub
 [yaash-ctrl](https://github.com/yaash-ctrl)
